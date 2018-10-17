@@ -2,3 +2,8 @@ body {
 	display: grid;
 	grid-template-columns: 2fr 8fr
 }
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}​
